@@ -62,6 +62,14 @@ Cost-Insurance/
 - Allows users to input features and view predicted charges in a user-friendly interface.
 
 ---
+## images
+
+![Screenshot From 2025-06-30 23-30-07](https://github.com/user-attachments/assets/4673e18c-dede-45d2-aa55-3a20720b4d71)
+![Screenshot From 2025-06-30 22-54-05](https://github.com/user-attachments/assets/077a50a1-e811-49a1-8486-30c1e4f9014d)
+![Screenshot From 2025-06-30 22-52-10](https://github.com/user-attachments/assets/3d459824-7c35-45c1-a2a1-2d53cc7e8cdc)
+![Screenshot From 2025-06-30 22-51-41](https://github.com/user-attachments/assets/5d189a63-2d1c-4df2-8843-ee6880691046)
+![Screenshot From 2025-06-30 22-50-45](https://github.com/user-attachments/assets/59461b9c-9310-4c02-a860-3b46a2ac7729)
+
 
 ## Dependencies
 
@@ -127,14 +135,6 @@ The system underwent:
 ## License
 
 This project is for academic and non-commercial use only. Contact the author for permissions.
-
-## images
-
-![Screenshot From 2025-06-30 23-30-07](https://github.com/user-attachments/assets/4673e18c-dede-45d2-aa55-3a20720b4d71)
-![Screenshot From 2025-06-30 22-54-05](https://github.com/user-attachments/assets/077a50a1-e811-49a1-8486-30c1e4f9014d)
-![Screenshot From 2025-06-30 22-52-10](https://github.com/user-attachments/assets/3d459824-7c35-45c1-a2a1-2d53cc7e8cdc)
-![Screenshot From 2025-06-30 22-51-41](https://github.com/user-attachments/assets/5d189a63-2d1c-4df2-8843-ee6880691046)
-![Screenshot From 2025-06-30 22-50-45](https://github.com/user-attachments/assets/59461b9c-9310-4c02-a860-3b46a2ac7729)
 
 
 
